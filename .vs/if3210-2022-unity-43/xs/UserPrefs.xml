@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{9563DC5A-ED76-4E2F-8F58-2BCF0A4C939D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Pills/PowerCapsule.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Pills/HealthCapsule.cs" Line="39" Column="5" />
+      <File FileName="Assets/Scripts/Player/PlayerHealth.cs" Line="82" Column="23" />
+      <File FileName="Assets/Scripts/Player/PlayerMovement.cs" Line="50" Column="69" />
+      <File FileName="Assets/Scripts/Enemy/EnemyHealth.cs" Line="76" Column="27" />
+      <File FileName="Assets/Scripts/Enemy/EnemyAttack.cs" Line="23" Column="27" />
+      <File FileName="Assets/Scripts/Player/PlayerShooting.cs" />
+      <File FileName="Assets/Scripts/Player/PlayerPower.cs" />
+      <File FileName="Assets/Scripts/Managers/EnemyManager.cs" />
+      <File FileName="Assets/Scripts/Managers/PillManager.cs" />
+      <File FileName="Assets/Scripts/Pills/Capsule.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Pills/SpeedCapsule.cs" Line="12" Column="23" />
+      <File FileName="Assets/Scripts/Pills/PowerCapsule.cs" Line="13" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="if3210-2022-unity-43" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_Complete-Game" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Enemy" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Enemy" expanded="True" />
+                <Node name="Factory" expanded="True" />
+                <Node name="Managers" expanded="True" />
+                <Node name="Pills" expanded="True">
+                  <Node name="PowerCapsule.cs" selected="True" />
+                </Node>
+                <Node name="Player" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3c150fd6-425d-4b19-adb9-6756f8a767c9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
